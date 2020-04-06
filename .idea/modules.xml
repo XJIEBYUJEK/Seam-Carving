@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Handle number format exception/Problems-Handle_number_format_exception.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Handle number format exception/Problems-Handle_number_format_exception.iml" group="Seam_Сarving/Problems-Handle_number_format_exception" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Handle number format exception/Problems-Handle_number_format_exception_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Handle number format exception/Problems-Handle_number_format_exception_main.iml" group="Seam_Сarving/Problems-Handle_number_format_exception" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Handle number format exception/Problems-Handle_number_format_exception_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Handle number format exception/Problems-Handle_number_format_exception_test.iml" group="Seam_Сarving/Problems-Handle_number_format_exception" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Handle string exception/Problems-Handle_string_exception.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Handle string exception/Problems-Handle_string_exception.iml" group="Seam_Сarving/Problems-Handle_string_exception" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Handle string exception/Problems-Handle_string_exception_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Handle string exception/Problems-Handle_string_exception_main.iml" group="Seam_Сarving/Problems-Handle_string_exception" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Handle string exception/Problems-Handle_string_exception_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Handle string exception/Problems-Handle_string_exception_test.iml" group="Seam_Сarving/Problems-Handle_string_exception" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/House inheritance/Problems-House_inheritance.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/House inheritance/Problems-House_inheritance.iml" group="Seam_Сarving/Problems-House_inheritance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/House inheritance/Problems-House_inheritance_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/House inheritance/Problems-House_inheritance_main.iml" group="Seam_Сarving/Problems-House_inheritance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/House inheritance/Problems-House_inheritance_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/House inheritance/Problems-House_inheritance_test.iml" group="Seam_Сarving/Problems-House_inheritance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Problems-The_angle_between_vectors.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Problems-The_angle_between_vectors.iml" group="Seam_Сarving/Problems-The_angle_between_vectors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Problems-The_angle_between_vectors_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Problems-The_angle_between_vectors_main.iml" group="Seam_Сarving/Problems-The_angle_between_vectors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Problems-The_angle_between_vectors_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Problems-The_angle_between_vectors_test.iml" group="Seam_Сarving/Problems-The_angle_between_vectors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving-task.iml" group="Seam_Сarving/Seam_Carving-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving-task_main.iml" group="Seam_Сarving/Seam_Carving-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving-task_test.iml" group="Seam_Сarving/Seam_Carving-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam_Сarving.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam_Сarving.iml" group="Seam_Сarving" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Seam_Сarving/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Seam_Сarving/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Seam_Сarving/util" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Handle_number_format_exception_main" target="1.8" />
+      <module name="Problems-Handle_number_format_exception_test" target="1.8" />
+      <module name="Problems-Handle_string_exception_main" target="1.8" />
+      <module name="Problems-Handle_string_exception_test" target="1.8" />
+      <module name="Problems-House_inheritance_main" target="1.8" />
+      <module name="Problems-House_inheritance_test" target="1.8" />
+      <module name="Problems-The_angle_between_vectors_main" target="1.8" />
+      <module name="Problems-The_angle_between_vectors_test" target="1.8" />
+      <module name="Seam_Carving-task_main" target="1.8" />
+      <module name="Seam_Carving-task_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
